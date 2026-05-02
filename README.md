@@ -8,7 +8,7 @@
 ### Desc.
 
 
-This program is a Windows shellcode loader written in Go. It downloads a shellcode blob from a provided URL, injects it into the current process' memory and executes it. It benefits from the usage of [BananPhone](https://github.com/C-Sto/BananaPhone) to make indirect system calls instead of calling the Windows API directly, which helps to support the goal of avoiding detection by EDR/XDR solutions! 
+This program is a Windows shellcode loader written in Go. It downloads a shellcode blob from a provided URL, injects it into the current process' memory and executes it. It benefits from the usage of [BananaPhone](https://github.com/C-Sto/BananaPhone) to make indirect system calls instead of calling the Windows API directly, which helps to support the goal of avoiding detection by EDR/XDR solutions! 
 
 >[!WARNING]
 >Prerequisites:
