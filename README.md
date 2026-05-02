@@ -145,8 +145,9 @@ python -m http.server 8080
 <img width="1126" height="84" alt="image" src="https://github.com/user-attachments/assets/236d88a9-cee2-463f-bf94-bfdd06b52185" />
 
 <br>
+<img width="762" height="214" alt="image" src="https://github.com/user-attachments/assets/0f6dbd0b-366b-4af3-bb56-57790a1e0f28" />
 
-
+<br>
 <br><br><br>
 
 ### Workflow in short:
