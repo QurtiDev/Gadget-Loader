@@ -102,7 +102,7 @@ strip --strip-all -R .note.go.buildinfo -R .gosymtab updates.exe
 ```
 <br>
 
-![alt text](assets/reverse_engineer.gif)
+![alt text](assets/rev.gif)
 
 
 
