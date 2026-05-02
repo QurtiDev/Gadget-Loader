@@ -139,7 +139,10 @@ Downloads shellcode from a remote URL (value is set in the loader.go file on lin
 
 
 <br><br>
-# ⚠️ Usage RULES & Disclaimer ⚠️
+
+<h1 align="center">⚠️ Usage RULES & Disclaimer ⚠️</h1>
+
+<br>
 
 This project is intended **ONLY** for authorized use and educational purposes.  
 Do **NOT** run this loader on systems you do NOT own, OR without **explicit WRITTEN permission** to test systems.
