@@ -108,6 +108,7 @@ strip --strip-all -R .note.go.buildinfo -R .gosymtab updates.exe
 
 
 <br>
+
 ### Step 0x4
 Optional step:
 If you want you can now pack it as Garble built binaries tend to flag by itself but I've noticed that if you pack them with a legitimate and known packer like UPX you can actually bypass static detection really well
