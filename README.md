@@ -151,11 +151,11 @@ python -m http.server 8080
 <br><br><br>
 
 ### Workflow in short:
-Downloads shellcode from a remote URL (value is set in the loader.go file on line 164).
-<br>Uses the [BananaPhone](https://github.com/C-Sto/BananaPhone) library to perform direct system calls without using Windows API directly - Evasion!
-<br>Allocates memory with PAGE_EXECUTE_READWRITE permissions.
-<br>Writes the downloaded shellcode to the allocated memory.
-<br>Executes the shellcode by creating a new thread!
+- Downloads shellcode from a remote URL (value is set in the loader.go file on line 164).
+- Uses the [BananaPhone](https://github.com/C-Sto/BananaPhone) library to perform direct system calls without using Windows API directly - Evasion!
+- Allocates memory with PAGE_EXECUTE_READWRITE permissions.
+- Writes the downloaded shellcode to the allocated memory.
+- Executes the shellcode by creating a new thread!
 
 
 <br><br>
