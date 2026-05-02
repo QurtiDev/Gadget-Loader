@@ -53,6 +53,8 @@ Non-garble
 ```
 GOOS=windows GOARCH=amd64 CGO_ENABLED=0 go build -trimpath -ldflags="-H=windowsgui -s -w" -o updates.exe .
 ```
+<img width="902" height="280" alt="image" src="https://github.com/user-attachments/assets/ec62e581-f8ad-4818-876c-117164ea4422" />
+
 
 Garble
 ```
@@ -126,6 +128,23 @@ Host your payload, you can use something like catbox or filebin for direct hosti
 ```
 python -m http.server 8080
 ```
+
+# Windows defender is on!
+<img width="1118" height="358" alt="image" src="https://github.com/user-attachments/assets/d46baf33-ec85-4d43-9da9-7c9229e5dcf0" />
+
+<img width="564" height="30" alt="image" src="https://github.com/user-attachments/assets/66fb34d1-ecfc-41ee-b450-54fe5dde8d47" />
+
+<img width="615" height="25" alt="image" src="https://github.com/user-attachments/assets/e1639bed-685a-4b41-98cb-c396cc6ce716" />
+
+<br>
+<img width="984" height="334" alt="image" src="https://github.com/user-attachments/assets/60a40b90-2995-46b1-9a5c-a916097df444" />
+
+<br>
+
+
+<img width="1126" height="84" alt="image" src="https://github.com/user-attachments/assets/236d88a9-cee2-463f-bf94-bfdd06b52185" />
+
+<br>
 
 
 <br><br><br>
